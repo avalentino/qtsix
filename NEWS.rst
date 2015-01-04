@@ -4,6 +4,7 @@ ChangeLog
 Changes from 1.0 to 1.0.1 (in development)
 ------------------------------------------
 
+* Add the *QtXml* module (it has been re-introduced in PyQt5_ v5.4)
 * Fix broken link in `NEWS.rst`
 * Added PyPi Pins to the `README.rst` filr (see https://pypip.in/index.html)
 * Added classifiers for all supported Python versions
