@@ -1,6 +1,12 @@
 ChangeLog
 =========
 
+Changes from 1.0 to 1.0.1 (in development)
+------------------------------------------
+
+* Fix broken link in `NEWS.rst`
+
+
 Changes from 0.6.5 to 1.0 (04/01/2015)
 --------------------------------------
 
@@ -22,4 +28,5 @@ This version only support PyQt4_ and PySide_ and used the Pyside_ API.
 .. _PyQt5: http://www.riverbankcomputing.com/software/pyqt/intro
 .. _PyQt4: http://www.riverbankcomputing.com/software/pyqt/intro
 .. _PySide: http://pyside.org
+.. _GSDView: http://gsdview.sourceforge.net
 
