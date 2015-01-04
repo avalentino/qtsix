@@ -14,6 +14,10 @@ QtSix
     :target: https://pypi.python.org/pypi/qtsix/
     :alt: Supported Python versions
 
+.. image:: https://pypip.in/license/qtsix/badge.svg
+    :target: https://pypi.python.org/pypi/qtsix/
+    :alt: License
+
 
 About
 =====
