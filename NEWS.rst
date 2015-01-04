@@ -5,6 +5,7 @@ Changes from 1.0 to 1.0.1 (in development)
 ------------------------------------------
 
 * Fix broken link in `NEWS.rst`
+* Added PyPi Pins to the `README.rst` filr (see https://pypip.in/index.html)
 
 
 Changes from 0.6.5 to 1.0 (04/01/2015)

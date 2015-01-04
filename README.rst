@@ -2,6 +2,18 @@
 QtSix
 =====
 
+.. image:: https://pypip.in/download/qtsix/badge.svg
+    :target: https://pypi.python.org/pypi//qtsix/
+    :alt: Downloads
+
+.. image:: https://pypip.in/version/qtsix/badge.svg
+    :target: https://pypi.python.org/pypi/qtsix/
+    :alt: Latest Version
+
+.. image:: https://pypip.in/py_versions/qtsix/badge.svg
+    :target: https://pypi.python.org/pypi/qtsix/
+    :alt: Supported Python versions
+
 
 About
 =====
