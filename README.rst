@@ -31,7 +31,7 @@ An application written for PyQt5_ is expected to work correctly if
 all imports form PyQt5_ are replaced with imports from *QtSix*.
 
 Applications written for PyQt4_ or PySide_ should be ported to the PyQt5_
-API in order to be able to use *QtSix*. 
+API in order to be able to use *QtSix*.
 
 Since *QtSix* is meant to be a compatibility layer it only provides
 PyQt5_ features that are also present in at least one of the other Qt_
@@ -51,7 +51,7 @@ or using the `setup.py` script included in the package::
 
 .. note::
 
-    the desired Qt_ bindings should be installed separately.
+    The desired Qt_ bindings should be installed separately.
     The installation of *QtSix* does not automatically trigger the
     installation of any of the supported Qt_ bindings.
 
