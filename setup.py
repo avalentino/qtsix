@@ -55,7 +55,7 @@ the first one available in the following order: PyQt5, PyQt4, PySide.
 
 setup(
     name='qtsix',
-    version='1.0.1.dev',
+    version='1.1',
     description='Compatibility layer for different Qt bindings.',
     long_description=long_description,
     url='https://github.com/avalentino/qtsix',
