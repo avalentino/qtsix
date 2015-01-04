@@ -66,7 +66,7 @@ setup(
         'Development Status :: 4 - Beta',
         'Intended Audience :: Developers',
         'Topic :: Software Development :: Widget Sets',
-        'License :: License :: OSI Approved :: BSD License',
+        'License :: OSI Approved :: BSD License',
         'Programming Language :: Python :: 2',
         'Programming Language :: Python :: 3',
     ],
