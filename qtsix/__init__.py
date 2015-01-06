@@ -62,7 +62,8 @@ if qt_api is None:
                 import PySide
                 qt_api = 'pyside'
             except ImportError:
-                raise ImportError('Cannot import PyQt4 or PySide')
+                raise ImportError('None of the supported python bindings '
+                                  'is available (PyQt5, PyQt4, PySide)')
 
 elif qt_api == 'pyqt4':
     prepare_pyqt4()
