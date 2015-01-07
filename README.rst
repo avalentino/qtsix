@@ -10,7 +10,7 @@ QtSix
     :target: https://pypi.python.org/pypi/qtsix/
     :alt: Latest Version
 
-.. image:: https://pypip.in/py_versions/qtsix/badge.png
+.. image:: https://pypip.in/py_versions/qtsix/badge.svg
     :target: https://pypi.python.org/pypi/qtsix/
     :alt: Supported Python versions
 
