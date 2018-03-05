@@ -2,10 +2,6 @@
 QtSix
 =====
 
-.. image:: https://img.shields.io/pypi/dm/qtsix.svg
-    :target: https://pypi.python.org/pypi//qtsix/
-    :alt: Downloads
-
 .. image:: https://img.shields.io/pypi/v/qtsix.svg
     :target: https://pypi.python.org/pypi/qtsix/
     :alt: Latest Version
