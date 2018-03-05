@@ -2,19 +2,19 @@
 QtSix
 =====
 
-.. image:: https://pypip.in/download/qtsix/badge.svg
+.. image:: https://img.shields.io/pypi/dm/qtsix.svg
     :target: https://pypi.python.org/pypi//qtsix/
     :alt: Downloads
 
-.. image:: https://pypip.in/version/qtsix/badge.svg
+.. image:: https://img.shields.io/pypi/v/qtsix.svg
     :target: https://pypi.python.org/pypi/qtsix/
     :alt: Latest Version
 
-.. image:: https://pypip.in/py_versions/qtsix/badge.svg
+.. image:: https://img.shields.io/pypi/pyversions/qtsix.svg
     :target: https://pypi.python.org/pypi/qtsix/
     :alt: Supported Python versions
 
-.. image:: https://pypip.in/license/qtsix/badge.svg
+.. image:: https://img.shields.io/pypi/l/qtsix.svg
     :target: https://pypi.python.org/pypi/qtsix/
     :alt: License
 
