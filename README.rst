@@ -2,6 +2,13 @@
 QtSix
 =====
 
+.. important::
+
+    The QtSix package is no longer maintained.
+    Users interested to the features provided by QtSix can consider to
+    switch to `QtPy <https://github.com/spyder-ide/qtpy>`_.
+
+
 .. image:: https://img.shields.io/pypi/v/qtsix.svg
     :target: https://pypi.python.org/pypi/qtsix/
     :alt: Latest Version
